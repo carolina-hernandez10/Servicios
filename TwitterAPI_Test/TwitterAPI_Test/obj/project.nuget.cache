@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwIKicjKfmoDIhI70We4sn8LblJUeu/McPQTqd9R7yQBthwnmBwOYLA61CX2TMj4DMk7C55va/1BY0/tM+Nrrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carolina Hernández M\\Documents\\Visual Studio 2019\\Projects\\TwitterAPI_Test\\TwitterAPI_Test\\TwitterAPI_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carolina Hernández M\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Carolina Hernández M\\.nuget\\packages\\restsharp\\106.5.4\\restsharp.106.5.4.nupkg.sha512",
+    "C:\\Users\\Carolina Hernández M\\.nuget\\packages\\restsharp.newtonsoft.json\\1.5.1\\restsharp.newtonsoft.json.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
